@@ -232,20 +232,3 @@ select {
     font-weight: 600;
 }
 
-@media only screen and (max-width: 1024px) {
-    .info {
-        width: 960px;
-    }
-
-    .checkout-info {
-        width: 480px;
-    }
-    
-    .contact-info {
-        width: 480px;
-    }
-
-    .checkout-item {
-        width: 300px;
-    }
-}
